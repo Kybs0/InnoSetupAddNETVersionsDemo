@@ -1,0 +1,2 @@
+# InnoSetupAddNETVersionsDemo
+InnoSetup添加.NET环境完整案例
